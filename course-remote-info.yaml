@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/432858/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Sat, 07 Aug 2021 13:51:22 UTC
+update_date: Sun, 08 Aug 2021 04:06:52 UTC
 stages:
 - id: 735
   step: 11364
@@ -22,10 +22,6 @@ stages:
   is_completed: true
 topics:
   0:
-  - title: Modulo division
-    theory_id: 10586
-  - title: Modulo division with negative numbers
-    theory_id: 13541
   - title: Introduction to Kotlin
     theory_id: 4350
   - title: Basic literals
@@ -57,29 +53,29 @@ topics:
     theory_id: 4672
   - title: Reading data with a readLine
     theory_id: 11224
-  - title: String basics
-    theory_id: 12553
-  - title: String templates
-    theory_id: 4547
   - title: Type of the numeric expression
     theory_id: 9506
   - title: Integers in action
     theory_id: 4488
   - title: Relational operators
     theory_id: 4525
-  - title: Characters
-    theory_id: 4680
-  - title: Working with strings
-    theory_id: 12561
+  - title: String basics
+    theory_id: 12553
+  - title: String templates
+    theory_id: 4547
   - title: If expression
     theory_id: 4625
   2:
   - title: Objects
     theory_id: 11233
+  - title: Characters
+    theory_id: 4680
   - title: Ranges
     theory_id: 4633
   - title: Equality
     theory_id: 11236
+  - title: Working with strings
+    theory_id: 12561
   - title: Arrays
     theory_id: 4564
   - title: String arrays
